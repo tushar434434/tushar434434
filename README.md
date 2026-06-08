@@ -1,23 +1,23 @@
-# Hi there 👋, I'm Tushar Kumar
+# Hi 👋, I'm Tushar Kumar
 
 <div align="center">
 
-### 🚀 B.Tech CSE Student | Rust Developer | Full-Stack Developer | DSA Enthusiast
+# 🦀 Rust Developer in Progress
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Rust+Developer;Full+Stack+Developer;DSA+Learner;Open+Source+Enthusiast;Future+Software+Engineer&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Rust+Developer;Full+Stack+Developer;DSA+Enthusiast;Future+Software+Engineer" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 * 🎓 B.Tech Computer Science Student
-* 🦀 Currently learning **Rust Programming**
-* 🌐 Building Full-Stack Applications using **React, Node.js, MongoDB**
-* 📚 Practicing **Data Structures & Algorithms**
-* 🚀 Working towards Software Development Internships
-* 💡 Interested in Systems Programming, Backend Development, and Open Source
+* 🦀 Currently learning Rust from The Rust Programming Language Book
+* 🌐 Exploring Full Stack Development
+* 📚 Solving Data Structures & Algorithms problems
+* 🚀 Building projects in Rust, React, Node.js, and MongoDB
+* 🎯 Target: Software Development Internship
 
 ---
 
@@ -27,15 +27,18 @@
 
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge\&logo=rust)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge\&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
 
-### Web Development
+### Frontend
 
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
+
+### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
 
@@ -47,14 +50,6 @@
 
 ---
 
-## 📈 GitHub Statistics
-
-![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar434434\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar434434\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tushar434434\&theme=tokyonight)
@@ -63,24 +58,37 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=tushar434434\&theme=onedark\&margin-w=15)
+![Trophy](https://github-profile-trophy.vercel.app/?username=tushar434434\&theme=onedark\&row=1\&column=6)
 
 ---
 
-## 🚀 Current Learning Journey
+## 📚 Current Learning Roadmap
 
 ### 🦀 Rust
 
-* Rust Book
-* Ownership & Borrowing
-* Structs & Enums
-* Traits & Generics
-* Error Handling
-* Testing
-* Minigrep Project
-* File Compression Project
+✅ Ownership & Borrowing
 
-### 📚 DSA
+✅ Structs & Enums
+
+✅ Collections
+
+✅ Error Handling
+
+✅ Generics
+
+✅ Traits
+
+✅ Testing
+
+🔄 Minigrep Project
+
+🔄 Multithreaded Web Server
+
+🔄 Async Rust
+
+---
+
+### 📖 Data Structures & Algorithms
 
 * Arrays
 * Linked Lists
@@ -90,6 +98,8 @@
 * Binary Search
 * Recursion
 * Dynamic Programming
+
+---
 
 ### 🌐 Full Stack Development
 
@@ -101,23 +111,23 @@
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🦀 Rust Compress
 
-A file compression utility built using Rust and flate2.
+A command-line file compressor built using Rust and flate2.
 
 ### 🦀 Minigrep
 
-A command-line search tool inspired by grep.
+A Rust-based command-line search utility inspired by grep.
 
 ### 📚 DSA Repository
 
-Solutions to Data Structures and Algorithms problems.
+Collection of Data Structures and Algorithms solutions.
 
 ### 🌐 Full Stack Projects
 
-React + Node.js + MongoDB applications.
+Modern web applications built with React, Node.js, and MongoDB.
 
 ---
 
@@ -149,6 +159,8 @@ React + Node.js + MongoDB applications.
 
 ### ⭐ Thanks for visiting my profile!
 
-"Consistency beats intensity."
+#### "Consistency beats intensity."
+
+🦀 Rust • 📚 DSA • 🌐 Full Stack
 
 </div>
