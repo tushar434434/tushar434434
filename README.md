@@ -1,140 +1,166 @@
-# Tushar Kumar
+# Hi 👋, I'm Tushar Kumar
 
-**B.Tech Computer Science · Rust Developer · Full Stack Engineer**
+<div align="center">
 
-Open to software development internships in 2026 · India · Remote-friendly
+# 🦀 Rust Developer in Progress
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Kumar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tushar-kumar-4b182b328/)
-[![GitHub](https://img.shields.io/badge/GitHub-tushar434434-181717?style=flat-square&logo=github)](https://github.com/tushar434434)
-![Profile Views](https://komarev.com/ghpvc/?username=tushar434434&style=flat-square&color=6366f1)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Rust+Developer;Full+Stack+Developer;DSA+Enthusiast;Future+Software+Engineer" alt="Typing SVG" />
 
----
-
-## About
-
-I'm a Computer Science undergraduate focused on systems programming in Rust, full stack web development, and data structures & algorithms. I enjoy building things that are fast, reliable, and well-tested — from CLI tools to web applications.
-
-Currently working through *The Rust Programming Language* book and applying concepts in real projects. Actively solving DSA problems and building my full stack skills with React, Node.js, and MongoDB.
+</div>
 
 ---
 
-## Tech Stack
+## 🚀 About Me
+
+* 🎓 B.Tech Computer Science Student
+* 🦀 Currently learning Rust from The Rust Programming Language Book
+* 🌐 Exploring Full Stack Development
+* 📚 Solving Data Structures & Algorithms problems
+* 🚀 Building projects in Rust, React, Node.js, and MongoDB
+* 🎯 Target: Software Development Internship
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge\&logo=rust)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge\&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
-## Featured Projects
+## 🔥 GitHub Streak
 
-### 🦀 [Rust Compress](https://github.com/tushar434434)
-CLI file compressor built with Rust and the `flate2` crate. Supports gzip and zlib compression with minimal runtime overhead.
-
-`Rust` `flate2` `CLI` `Systems Programming`
+![GitHub Streak](https://streak-stats.demolab.com?user=tushar434434\&theme=tokyonight)
 
 ---
 
-### 🔍 [Minigrep](https://github.com/tushar434434)
-A grep-inspired command-line search utility written in Rust. Covers file I/O, iterators, environment configuration, and test-driven development.
+## 🏆 GitHub Trophies
 
-`Rust` `CLI` `TDD` `Iterators`
-
----
-
-### 📚 [DSA Repository](https://github.com/tushar434434)
-Structured collection of data structures and algorithm solutions with explanations, complexity analysis, and multiple language implementations.
-
-`C++` `Python` `Algorithms` `Data Structures`
+![Trophy](https://github-profile-trophy.vercel.app/?username=tushar434434\&theme=onedark\&row=1\&column=6)
 
 ---
 
-### 🌐 [Full Stack Projects](https://github.com/tushar434434)
-Modern web applications built with React frontends, Express.js REST APIs, and MongoDB-backed data layers.
-
-`React` `Node.js` `Express` `MongoDB` `REST API`
-
----
-
-## Learning Roadmap
+## 📚 Current Learning Roadmap
 
 ### 🦀 Rust
-| Topic | Status |
-|---|---|
-| Ownership & Borrowing | ✅ Complete |
-| Structs & Enums | ✅ Complete |
-| Collections | ✅ Complete |
-| Error Handling | ✅ Complete |
-| Generics & Traits | ✅ Complete |
-| Testing | ✅ Complete |
-| Minigrep Project | ✅ Complete |
-| Multithreaded Web Server | 🔄 In progress |
-| Async Rust | 🔄 In progress |
 
-### 📚 Data Structures & Algorithms
-| Topic | Status |
-|---|---|
-| Arrays & Strings | ✅ Complete |
-| Linked Lists | ✅ Complete |
-| Stacks & Queues | ✅ Complete |
-| Trees & Binary Search | ✅ Complete |
-| Recursion | ✅ Complete |
-| Dynamic Programming | 🔄 In progress |
-| Graph Algorithms | 🔄 In progress |
+✅ Ownership & Borrowing
+
+✅ Structs & Enums
+
+✅ Collections
+
+✅ Error Handling
+
+✅ Generics
+
+✅ Traits
+
+✅ Testing
+
+🔄 Minigrep Project
+
+🔄 Multithreaded Web Server
+
+🔄 Async Rust
+
+---
+
+### 📖 Data Structures & Algorithms
+
+* Arrays
+* Linked Lists
+* Stacks
+* Queues
+* Trees
+* Binary Search
+* Recursion
+* Dynamic Programming
+
+---
 
 ### 🌐 Full Stack Development
-| Topic | Status |
-|---|---|
-| React | ✅ Complete |
-| Node.js & Express | ✅ Complete |
-| MongoDB | 🔄 In progress |
-| REST API Design | 🔄 In progress |
+
+* React
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
 
 ---
 
-## GitHub Stats
+## 🚀 Featured Projects
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tushar434434&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
+### 🦀 Rust Compress
 
-![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar434434&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+A command-line file compressor built using Rust and flate2.
 
----
+### 🦀 Minigrep
 
-## 2026 Goals
+A Rust-based command-line search utility inspired by grep.
 
-- [ ] Complete *The Rust Programming Language* book
-- [ ] Ship 5+ Rust projects
-- [ ] Solve 300+ DSA problems
-- [ ] Make meaningful open source contributions
-- [ ] Secure a software development internship
+### 📚 DSA Repository
 
----
+Collection of Data Structures and Algorithms solutions.
 
-## Connect
+### 🌐 Full Stack Projects
 
-I'm always open to discussing Rust, systems programming, full stack projects, or internship opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tushar-kumar-4b182b328/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/tushar434434)
+Modern web applications built with React, Node.js, and MongoDB.
 
 ---
 
-*"Consistency beats intensity."*
+## 🎯 2026 Goals
+
+* Complete Rust Book
+* Build 5+ Rust Projects
+* Solve 300+ DSA Problems
+* Contribute to Open Source
+* Secure a Software Development Internship
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Kumar-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/tushar-kumar-4b182b328/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-tushar434434-black?style=for-the-badge\&logo=github)](https://github.com/tushar434434)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=tushar434434\&style=for-the-badge)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+#### "Consistency beats intensity."
+
+🦀 Rust • 📚 DSA • 🌐 Full Stack
+
+</div>
