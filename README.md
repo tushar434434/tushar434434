@@ -4,7 +4,7 @@
 
 # 🦀 Rust Developer in Progress
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Rust+Developer;Full+Stack+Developer;DSA+Enthusiast;Future+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student;Rust+Developer;Full+Stack+Developer;DSA+Enthusiast;Future+Software+Engineer" alt="Typing SVG" />
 
 </div>
 
