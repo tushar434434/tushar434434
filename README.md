@@ -37,10 +37,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
 
-### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+
 
 ### Tools
 
@@ -56,9 +54,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=tushar434434\&theme=onedark\&row=1\&column=6)
 
 ---
 
@@ -80,7 +76,7 @@
 
 ✅ Testing
 
-🔄 Minigrep Project
+✅ Minigrep Project
 
 🔄 Multithreaded Web Server
 
