@@ -35,11 +35,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### Backend & Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
 
 ### Tools
 
@@ -61,25 +56,7 @@
 
 ---
 
-## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tushar434434&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tushar434434&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
 
 ## 📚 Current Learning Roadmap
 
