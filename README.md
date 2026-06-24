@@ -40,11 +40,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
 </p>
 
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,postgresql,mongodb" />
-</p>
 
 ### Tools
 
