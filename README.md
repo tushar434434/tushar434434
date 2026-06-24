@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# 🦀 Rust & Backend Developer
+# 🦀 Rust Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=B.Tech+Computer+Science+Student;Rust+Developer;Building+a+Unix+Shell+in+Rust;Full+Stack+Developer;110%2B+LeetCode+Problems+Solved;Future+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=B.Tech+Computer+Science+Student;Rust+Developer;Building+a+Unix+Shell+in+Rust;Full+Stack+Developer;110%2B+LeetCode+Problems+Solved;Systems+Programming+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -15,12 +15,13 @@
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * 🎓 B.Tech Computer Science Student
-* 🦀 Passionate about Systems Programming and Rust
+* 🦀 Learning and building with Rust
 * 💻 Building a Unix Shell from scratch using Rust
-* 🌐 Full Stack Developer (React, Node.js, SQL)
+* 🌐 Exploring Full Stack Development
 * 📚 Solved 110+ LeetCode Problems
 * ❤️ Favorite Subject: Operating Systems
-* 🎯 Goal: Software Development Internship
+* 🚀 Interested in Systems Programming and Open Source
+* 🎯 Goal: Secure a Software Development Internship
 
 <br clear="right"/>
 
@@ -40,6 +41,11 @@
 <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
 </p>
 
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,mongodb,postgresql" />
+</p>
 
 ### Tools
 
@@ -57,12 +63,13 @@ A Unix-like shell built in Rust.
 
 ✨ Features:
 
-* Built-in commands (`cd`, `pwd`, `echo`, `type`, `exit`)
+* Built-in Commands (`cd`, `pwd`, `echo`, `type`, `exit`)
 * Pipes (`|`)
 * Redirections (`>`, `>>`, `2>`)
-* Quoting & escaping
-* PATH resolution
-* Tab completion
+* Quoting & Escaping
+* PATH Resolution
+* Tab Completion
+* Process Management
 
 🔗 https://github.com/tushar434434/codecrafters-shell-rust
 
@@ -86,7 +93,7 @@ Full-stack Air Quality Monitoring Dashboard.
 
 ### 🦀 Rust Compress
 
-File compression utility using Rust and flate2.
+Command-line file compression utility built using Rust and flate2.
 
 🔗 https://github.com/tushar434434/Rust-compress
 
@@ -94,7 +101,7 @@ File compression utility using Rust and flate2.
 
 ### 🦀 Rust Decompress
 
-Efficient decompression utility built in Rust.
+Utility for efficiently decompressing compressed files.
 
 🔗 https://github.com/tushar434434/Rust-decompress
 
@@ -105,16 +112,28 @@ Efficient decompression utility built in Rust.
 ### 🦀 Rust
 
 ✅ Ownership & Borrowing
+
 ✅ Structs & Enums
+
+✅ Collections
+
 ✅ Error Handling
-✅ Traits & Generics
-✅ Smart Pointers
+
+✅ Generics
+
+✅ Traits
+
 ✅ Testing
+
+✅ Smart Pointers
+
 ✅ Fearless Concurrency
 
 🔄 Multithreaded Web Server
+
 🔄 Async Rust
-🔄 Axum / Actix Web
+
+🔄 Axum
 
 ---
 
@@ -130,7 +149,7 @@ Efficient decompression utility built in Rust.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar434434&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar434434&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
