@@ -4,7 +4,7 @@
 
 # 🦀 Rust & Backend Developer
 
-B.Tech Computer Science Student | Systems Programming Enthusiast | Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=B.Tech+Computer+Science+Student;Rust+Developer;Building+a+Unix+Shell+in+Rust;Full+Stack+Developer;110%2B+LeetCode+Problems+Solved;Future+Software+Engineer" alt="Typing SVG" />
 
 </div>
 
@@ -12,12 +12,17 @@ B.Tech Computer Science Student | Systems Programming Enthusiast | Full Stack De
 
 ## 🚀 About Me
 
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 * 🎓 B.Tech Computer Science Student
-* 🦀 Building systems software in Rust
+* 🦀 Passionate about Systems Programming and Rust
+* 💻 Building a Unix Shell from scratch using Rust
 * 🌐 Full Stack Developer (React, Node.js, SQL)
-* 📚 Solved 110+ LeetCode problems
-* 🔍 Interested in Operating Systems, Databases, and Backend Engineering
-* 🎯 Looking for Software Development Internship opportunities
+* 📚 Solved 110+ LeetCode Problems
+* ❤️ Favorite Subject: Operating Systems
+* 🎯 Goal: Software Development Internship
+
+<br clear="right"/>
 
 ---
 
@@ -25,19 +30,27 @@ B.Tech Computer Science Student | Systems Programming Enthusiast | Full Stack De
 
 ### Languages
 
-Rust • C++ • C • Python • JavaScript
-
-### Backend
-
-Node.js • Express.js • SQLite • PostgreSQL
+<p>
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,python,java,js" />
+</p>
 
 ### Frontend
 
-React • HTML • CSS • JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,postgresql,mongodb" />
+</p>
 
 ### Tools
 
-Git • GitHub • VS Code • Linux
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
@@ -45,14 +58,16 @@ Git • GitHub • VS Code • Linux
 
 ### 🦀 Rust Shell (CodeCrafters)
 
-Built a Unix-like shell in Rust featuring:
+A Unix-like shell built in Rust.
 
-* Command execution
-* Built-in commands (cd, pwd, echo, type, exit)
-* Pipes and redirections
-* Quoting and escaping
+✨ Features:
+
+* Built-in commands (`cd`, `pwd`, `echo`, `type`, `exit`)
+* Pipes (`|`)
+* Redirections (`>`, `>>`, `2>`)
+* Quoting & escaping
+* PATH resolution
 * Tab completion
-* Process management
 
 🔗 https://github.com/tushar434434/codecrafters-shell-rust
 
@@ -60,14 +75,15 @@ Built a Unix-like shell in Rust featuring:
 
 ### 🌍 AQI Dashboard
 
-Full-stack Air Quality Monitoring System built using React, Node.js, SQLite and Leaflet Maps.
+Full-stack Air Quality Monitoring Dashboard.
 
-Features:
+✨ Features:
 
-* Interactive map visualization
-* City search
-* AQI comparison
-* Favorites support
+* Interactive Maps
+* AQI Comparison
+* Favorites
+* Charts & Visualizations
+* SQLite Backend
 
 🔗 https://github.com/tushar434434/-AQI_BY_TUSHAR-
 
@@ -75,7 +91,7 @@ Features:
 
 ### 🦀 Rust Compress
 
-Command-line file compression utility built with Rust and flate2.
+File compression utility using Rust and flate2.
 
 🔗 https://github.com/tushar434434/Rust-compress
 
@@ -83,39 +99,91 @@ Command-line file compression utility built with Rust and flate2.
 
 ### 🦀 Rust Decompress
 
-Utility for efficiently decompressing compressed files using Rust.
+Efficient decompression utility built in Rust.
 
 🔗 https://github.com/tushar434434/Rust-decompress
 
 ---
 
+## 📚 Current Learning Journey
+
+### 🦀 Rust
+
+✅ Ownership & Borrowing
+✅ Structs & Enums
+✅ Error Handling
+✅ Traits & Generics
+✅ Smart Pointers
+✅ Testing
+✅ Fearless Concurrency
+
+🔄 Multithreaded Web Server
+🔄 Async Rust
+🔄 Axum / Actix Web
+
+---
+
 ## 📊 GitHub Stats
 
-* 110+ LeetCode Problems Solved
-* Multiple Rust Projects
-* Full Stack Development Experience
-* Active Open Source Learner
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tushar434434&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar434434&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar434434&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar434434&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 🎯 2026 Goals
 
-* Build production-ready Rust applications
-* Complete Codecrafters Shell
-* Contribute to Open Source
-* Learn System Design
-* Secure a Software Development Internship
+* ✅ Build Multiple Rust Projects
+* 🔄 Complete Codecrafters Shell
+* 🎯 Reach 300+ LeetCode Problems
+* 🚀 Build a Redis Clone in Rust
+* 🌟 Contribute to Open Source
+* 💼 Secure a Software Development Internship
 
 ---
 
 ## 🌐 Connect With Me
 
-LinkedIn:
-https://www.linkedin.com/in/tushar-kumar-4b182b328/
+<p>
+<a href="https://www.linkedin.com/in/tushar-kumar-4b182b328/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-GitHub:
-https://github.com/tushar434434
+<a href="https://github.com/tushar434434">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
 
 ---
 
-### ⭐ Consistency beats intensity.
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=tushar434434&style=for-the-badge" />
+
+### ⭐ Thanks for visiting my profile!
+
+### 🦀 Rust • ⚙️ Systems Programming • 🌐 Full Stack
+
+*"Consistency beats intensity."*
+
+</div>
