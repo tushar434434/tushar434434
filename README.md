@@ -18,7 +18,7 @@
 * 🦀 Learning and building with Rust
 * 💻 Building a Unix Shell from scratch using Rust
 * 🌐 Exploring Full Stack Development
-* 📚 Solved 110+ LeetCode Problems
+* 📚 Solved 150+ LeetCode Problems
 * ❤️ Favorite Subject: Operating Systems
 * 🚀 Interested in Systems Programming and Open Source
 * 🎯 Goal: Secure a Software Development Internship
