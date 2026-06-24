@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# 🦀 Rust Developer in Progress
+# 🦀 Rust & Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+CS+Student;Rust+Developer;Full+Stack+Developer;DSA+Enthusiast;Future+Software+Engineer" alt="Typing SVG" />
+B.Tech Computer Science Student | Systems Programming Enthusiast | Full Stack Developer
 
 </div>
 
@@ -12,102 +12,70 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 🦀 Learning Rust through *The Rust Programming Language*
-- 🌐 Exploring Full Stack Development
-- 📚 Practicing Data Structures & Algorithms
-- 🚀 Building projects with Rust, React, Node.js, and MongoDB
-- 🎯 Goal: Secure a Software Development Internship
+* 🎓 B.Tech Computer Science Student
+* 🦀 Building systems software in Rust
+* 🌐 Full Stack Developer (React, Node.js, SQL)
+* 📚 Solved 110+ LeetCode problems
+* 🔍 Interested in Operating Systems, Databases, and Backend Engineering
+* 🎯 Looking for Software Development Internship opportunities
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=rust,cpp,c,python" />
-</p>
+Rust • C++ • C • Python • JavaScript
+
+### Backend
+
+Node.js • Express.js • SQLite • PostgreSQL
 
 ### Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
+React • HTML • CSS • JavaScript
 
 ### Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
---
-
-
-
-
-
-## 📚 Current Learning Roadmap
-
-### 🦀 Rust Journey
-
-✅ Ownership & Borrowing
-
-✅ Structs & Enums
-
-✅ Collections
-
-✅ Error Handling
-
-✅ Generics
-
-✅ Traits
-
-✅ Testing
-
-✅ Minigrep Project
-
-✅ Smart Pointers
-
-✅ Fearless Concurrency
-
-🔄 Multithreaded Web Server
-
-🔄 Async Rust
-
-🔄 Actix Web
-
---
-
-### 📖 Data Structures & Algorithms
-
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Binary Search
-- Recursion
-- Dynamic Programming
-
----
-
-### 🌐 Full Stack Development
-
-- React
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
+Git • GitHub • VS Code • Linux
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🦀 Rust Shell (CodeCrafters)
+
+Built a Unix-like shell in Rust featuring:
+
+* Command execution
+* Built-in commands (cd, pwd, echo, type, exit)
+* Pipes and redirections
+* Quoting and escaping
+* Tab completion
+* Process management
+
+🔗 https://github.com/tushar434434/codecrafters-shell-rust
+
+---
+
+### 🌍 AQI Dashboard
+
+Full-stack Air Quality Monitoring System built using React, Node.js, SQLite and Leaflet Maps.
+
+Features:
+
+* Interactive map visualization
+* City search
+* AQI comparison
+* Favorites support
+
+🔗 https://github.com/tushar434434/-AQI_BY_TUSHAR-
+
+---
+
 ### 🦀 Rust Compress
 
-A command-line file compressor built using Rust and flate2.
+Command-line file compression utility built with Rust and flate2.
 
 🔗 https://github.com/tushar434434/Rust-compress
 
@@ -115,69 +83,39 @@ A command-line file compressor built using Rust and flate2.
 
 ### 🦀 Rust Decompress
 
-A Rust utility for decompressing GZIP-compressed files efficiently.
+Utility for efficiently decompressing compressed files using Rust.
 
 🔗 https://github.com/tushar434434/Rust-decompress
 
 ---
 
-### 🦀 Rust Learning Repository
+## 📊 GitHub Stats
 
-My complete Rust learning journey following the official Rust Book with notes, exercises, and mini-projects.
-
-🔗 https://github.com/tushar434434/rust
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar434434&theme=tokyo-night&hide_border=true"/>
-
-</div>
+* 110+ LeetCode Problems Solved
+* Multiple Rust Projects
+* Full Stack Development Experience
+* Active Open Source Learner
 
 ---
 
 ## 🎯 2026 Goals
 
-- Complete The Rust Programming Language Book
-- Build 5+ Rust Projects
-- Solve 300+ DSA Problems
-- Contribute to Open Source
-- Learn System Design Fundamentals
-- Secure a Software Development Internship
+* Build production-ready Rust applications
+* Complete Codecrafters Shell
+* Contribute to Open Source
+* Learn System Design
+* Secure a Software Development Internship
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/tushar-kumar-4b182b328/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+LinkedIn:
+https://www.linkedin.com/in/tushar-kumar-4b182b328/
 
-<a href="https://github.com/tushar434434">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+GitHub:
+https://github.com/tushar434434
 
 ---
 
-## 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=tushar434434&style=for-the-badge" />
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-### "Consistency beats intensity."
-
-🦀 Rust • 📚 DSA • 🌐 Full Stack
-
-</div>
+### ⭐ Consistency beats intensity.
