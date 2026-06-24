@@ -41,11 +41,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
 </p>
 
-### Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,mongodb,postgresql" />
-</p>
 
 ### Tools
 
@@ -141,9 +137,9 @@ Utility for efficiently decompressing compressed files.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tushar434434&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="100" src="https://github-readme-stats.vercel.app/api?username=tushar434434&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar434434&theme=tokyonight&hide_border=true"/>
+<img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar434434&theme=tokyonight&hide_border=true"/>
 
 </div>
 
