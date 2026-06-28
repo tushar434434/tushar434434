@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 B.Tech Computer Science Student
 - 🦀 Learning Rust through *The Rust Programming Language*
