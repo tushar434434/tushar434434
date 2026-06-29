@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tushar Kumar
+# Hi , I'm Tushar Kumar
 
 <div align="center">
 
