@@ -104,7 +104,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🦀 Rust Compress
 
