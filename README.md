@@ -146,7 +146,7 @@ My complete Rust learning journey following the official Rust Book with notes, e
 - Build 5+ Rust Projects
 - Solve 300+ DSA Problems
 - Contribute to Open Source
-- Learn System Design Fundamentals
+- Learn System Design Fundamental
 - Secure a Software Development Internship
 
 ---
