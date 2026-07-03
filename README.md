@@ -16,7 +16,7 @@
 - 🦀 Learning Rust through *The Rust Programming Language*
 - 🌐 Exploring Full Stack Development
 - 📚 Practicing Data Structures & Algorithms
-- 🚀 Building projects with Rust, React, Node.js, and MongoDB
+- 🚀 Building projects with Rust, React, and MongoDB
 - 🎯 Goal: Secure a Software Development Internship
 
 ---
