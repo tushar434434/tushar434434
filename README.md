@@ -50,7 +50,7 @@
 
 ## 📚 Current Learning Roadmap
 
-### 🦀 Rust Journey
+### 🦀 Rust 
 
 ✅ Ownership & Borrowing
 
