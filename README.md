@@ -23,7 +23,7 @@
 
 ##  Tech Stack
 
-### Language
+### Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=rust,cpp,c,python" />
