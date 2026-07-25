@@ -132,11 +132,7 @@ Rust CLI utility for GZIP decompression.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar434434&theme=tokyonight&hide_border=true"/>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar434434&theme=tokyo-night&hide_border=true"/>
-
-</div>
+<br
 
 ---
 
