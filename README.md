@@ -1,10 +1,8 @@
 # Hey, I'm Tushar Kumar! 👋
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" width="35%" align="right" alt="Coding">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" width="35%" align="right" alt="Coding"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&color=0D99FF&vCenter=true&lines=Rust+Developer+🦀;Backend+Developer;Full+Stack+Developer;Open+Source+Learner;B.Tech+Computer+Science+Student)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=tushar434434&style=flat-square&color=blue" alt="Profile Views"/>
 
 ---
 
@@ -14,19 +12,19 @@
 
 🎓 B.Tech Computer Science Student.
 
-📚 Currently exploring **Rust, Async Programming, Backend Development, Operating Systems, and Blockchain.**
+💻 Building backend applications, CLI tools, and full-stack projects.
 
-💻 I enjoy building CLI tools, backend applications, and solving DSA problems.
+🚀 Experienced with Rust, React, Node.js, Express.js, MongoDB, and SQLite.
 
-🚀 Actively building projects in **Rust, React, Node.js, and MongoDB.**
+📚 Strong interest in Operating Systems, Data Structures & Algorithms, and Blockchain.
 
-🎯 Currently looking for **Software Development / Backend / Rust Internship** opportunities.
+🎯 Open to Software Development, Backend, and Rust Internship opportunities.
 
 📍 India
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -38,7 +36,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -58,11 +56,11 @@
 
 ---
 
-## 🌐 Backend
+## ⚙️ Backend
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite)](https://skillicons.dev)
 
 </div>
 
@@ -78,7 +76,7 @@
 
 ---
 
-## ⚙️ Tools
+## 🧰 Tools
 
 <div align="center">
 
@@ -88,23 +86,11 @@
 
 ---
 
-# 📚 Currently Learning
-
-- Async Rust
-- Multithreaded Web Servers
-- Actix Web
-- Tokio
-- Blockchain Development
-- System Design
-- Advanced Data Structures & Algorithms
-
----
-
 # 🚀 Featured Projects
 
 ## 🦀 Rust Compress
 
-CLI utility to compress files efficiently using **Rust** and **flate2**.
+A command-line file compressor built in Rust using the **flate2** crate for efficient GZIP compression.
 
 🔗 https://github.com/tushar434434/Rust-compress
 
@@ -112,7 +98,7 @@ CLI utility to compress files efficiently using **Rust** and **flate2**.
 
 ## 🦀 Rust Decompress
 
-A Rust utility for decompressing GZIP-compressed files.
+A Rust CLI utility for fast and efficient GZIP decompression.
 
 🔗 https://github.com/tushar434434/Rust-decompress
 
@@ -120,7 +106,7 @@ A Rust utility for decompressing GZIP-compressed files.
 
 ## 🦀 Rust Learning Repository
 
-A complete Rust learning repository containing notes, examples, exercises, and mini projects based on **The Rust Programming Language**.
+A complete Rust learning repository following **The Rust Programming Language** book with notes, exercises, examples, and mini-projects.
 
 🔗 https://github.com/tushar434434/rust
 
@@ -128,19 +114,22 @@ A complete Rust learning repository containing notes, examples, exercises, and m
 
 ## 🌍 AQI_BY_TUSHAR
 
-A Full Stack Air Quality Dashboard built with:
+A full-stack Air Quality Dashboard built using React, Node.js, SQLite, Leaflet Maps, and REST APIs.
+
+**Tech Stack**
 
 - React
 - Node.js
+- Express.js
 - SQLite
-- Leaflet Maps
+- Leaflet
 - REST APIs
 
 🔗 https://github.com/tushar434434/-AQI_BY_TUSHAR-
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <div align="center">
 
@@ -150,34 +139,42 @@ A Full Stack Air Quality Dashboard built with:
 
 </div>
 
+<br>
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar434434&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar434434&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
 ---
 
+# 💡 Areas of Interest
 
-
-# 💡 Interests
-
-- Systems Programming
-- Backend Engineering
-- Rust
-- Open Source
-- Operating Systems
-- Distributed Systems
-- Blockchain
+- 🦀 Systems Programming
+- ⚙️ Backend Development
+- 🌐 Full Stack Development
+- 📚 Data Structures & Algorithms
+- 💻 Operating Systems
+- 🔗 Blockchain
+- 🌍 Open Source
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-*"Consistency beats intensity."*
+### *"Consistency beats intensity."*
 
-🦀 Rust • ⚙️ Backend • 💻 DSA • 🌍 Open Source
+🦀 Rust • ⚙️ Backend • 💻 Full Stack • 🌍 Open Source
 
 </div>
