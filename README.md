@@ -1,175 +1,174 @@
-# Hi , I'm Tushar Kumar
+# Hey, I'm Tushar Kumar! 👋
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" width="35%" align="right" alt="Coding">
 
-# 🦀 Rust Developer in Progress
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&color=0D99FF&vCenter=true&lines=Rust+Developer+🦀;Backend+Developer;Full+Stack+Developer;Open+Source+Learner;B.Tech+Computer+Science+Student)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+CS+Student;Rust+Developer;Full+Stack+Developer;DSA+Enthusiast;Future+Software+Engineer" alt="Typing SVG" />
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=tushar434434&style=flat-square&color=blue" alt="Profile Views"/>
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 🦀 Learning Rust through *The Rust Programming Language*
-- 🌐 Exploring Full Stack Development
-- 📚 Practicing Data Structures & Algorithms
-- 🚀 Building projects with Rust, React, and MongoDB
-- 🎯 Goal: Secure a Software Development Internship
+🦀 Rust Developer passionate about systems programming and backend development.
 
----
+🎓 B.Tech Computer Science Student.
 
-##  Tech Stack
+📚 Currently exploring **Rust, Async Programming, Backend Development, Operating Systems, and Blockchain.**
 
-### Language
+💻 I enjoy building CLI tools, backend applications, and solving DSA problems.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=rust,cpp,c,python" />
-</p>
+🚀 Actively building projects in **Rust, React, Node.js, and MongoDB.**
 
-### Frontend
+🎯 Currently looking for **Software Development / Backend / Rust Internship** opportunities.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-
-### Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
---
-
-
-
-
-
-## 📚 Current Learning Roadmap
-
-### 🦀 Rust 
-
-✅ Ownership & Borrowing
-
-✅ Structs & Enums
-
-✅ Collections
-
-✅ Error Handling
-
-✅ Generics
-
-✅ Traits
-
-✅ Testing
-
-✅ Minigrep Project
-
-✅ Smart Pointers
-
-✅ Fearless Concurrency
-
-🔄 Multithreaded Web Server
-
-🔄 Async Rust
-
-🔄 Actix Web
-
----
---
-
-### 📖 Data Structures & Algorithms
-
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Binary Search
-- Recursion
-- Dynamic Programming
-
----
-
-### 🌐 Full Stack Development
-
-- React
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-
----
-
-##  Featured Project
-
-### 🦀 Rust Compress
-
-A command-line file compressor built using Rust and flate2.
-
-🔗 https://github.com/tushar434434/Rust-compress
-
----
-
-### 🦀 Rust Decompress
-
-A Rust utility for decompressing GZIP-compressed files efficiently.
-
-🔗 https://github.com/tushar434434/Rust-decompress
-
----
-
-### 🦀 Rust Learning Repository
-
-My complete Rust learning journey following the official Rust Book with notes, exercises, and mini-projects.
-
-🔗 https://github.com/tushar434434/rust
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar434434&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-- Complete The Rust Programming Language Book
-- Build 5+ Rust Projects
-- Solve 300+ DSA Problems
-- Contribute to Open Source
-- Learn System Design Fundamental
-- Secure a Software Development Internship
+📍 India
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
+
 <a href="https://www.linkedin.com/in/tushar-kumar-4b182b328/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/tushar434434">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 👀 Profile Views
+# 🛠 Tech Stack
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=tushar434434&style=for-the-badge" />
-</p>
+## 🦀 Languages
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,c,python,js)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🌐 Backend
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🎨 Frontend
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
+
+</div>
+
+---
+
+## ⚙️ Tools
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux)](https://skillicons.dev)
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+- Async Rust
+- Multithreaded Web Servers
+- Actix Web
+- Tokio
+- Blockchain Development
+- System Design
+- Advanced Data Structures & Algorithms
+
+---
+
+# 🚀 Featured Projects
+
+## 🦀 Rust Compress
+
+CLI utility to compress files efficiently using **Rust** and **flate2**.
+
+🔗 https://github.com/tushar434434/Rust-compress
+
+---
+
+## 🦀 Rust Decompress
+
+A Rust utility for decompressing GZIP-compressed files.
+
+🔗 https://github.com/tushar434434/Rust-decompress
+
+---
+
+## 🦀 Rust Learning Repository
+
+A complete Rust learning repository containing notes, examples, exercises, and mini projects based on **The Rust Programming Language**.
+
+🔗 https://github.com/tushar434434/rust
+
+---
+
+## 🌍 AQI_BY_TUSHAR
+
+A Full Stack Air Quality Dashboard built with:
+
+- React
+- Node.js
+- SQLite
+- Leaflet Maps
+- REST APIs
+
+🔗 https://github.com/tushar434434/-AQI_BY_TUSHAR-
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tushar434434&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar434434&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar434434&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+
+
+# 💡 Interests
+
+- Systems Programming
+- Backend Engineering
+- Rust
+- Open Source
+- Operating Systems
+- Distributed Systems
+- Blockchain
 
 ---
 
@@ -177,8 +176,8 @@ My complete Rust learning journey following the official Rust Book with notes, e
 
 ### ⭐ Thanks for visiting my profile!
 
-### "Consistency beats intensity."
+*"Consistency beats intensity."*
 
-🦀 Rust • 📚 DSA • 🌐 Full Stack
+🦀 Rust • ⚙️ Backend • 💻 DSA • 🌍 Open Source
 
 </div>
