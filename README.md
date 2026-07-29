@@ -2,27 +2,21 @@
 
 <img src="./images/Hand coding-bro.png" width="35%" align="right" alt="Coding"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&color=0D99FF&vCenter=true&lines=Rust+Developer+🦀;Backend+Developer;Full+Stack+Developer;Open+Source+Learner;B.Tech+Computer+Science+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&color=0D99FF&vCenter=true&lines=Rust+Developer+🦀;Backend+Developer;Systems+Programming+Enthusiast;Open+Source+Learner;B.Tech+Computer+Science+Student)](https://git.io/typing-svg)
 
-🦀 **Rust Developer**
+## 🦀 About Me
 
-💻 Backend & Full Stack Developer
+- 💻 Backend & Systems Programming Developer
+- 🎓 B.Tech Computer Science Student
+- 🚀 Building backend applications, multithreaded servers and CLI tools using **Rust**
+- 🌐 Full Stack Developer with **React, Node.js and SQLite**
+- 📚 Passionate about Operating Systems, Networking, Concurrency and DSA
+- 🌱 Currently learning **Async Rust, Tokio, Actix Web and Blockchain**
+- 🎯 Looking for **Rust Backend** and **Software Engineering Internships**
 
-🎓 B.Tech Computer Science Student
+---
 
-🚀 Building backend applications, CLI tools and full-stack projects using Rust, React and Node.js.
-
-📚 Passionate about Systems Programming, Operating Systems, Data Structures & Algorithms.
-
-🌱 Currently exploring Async Rust, Actix Web and Blockchain Development.
-
-🎯 Open to Software Development, Backend and Rust Internship opportunities.
-
-📍 India
-
-<br>
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -44,7 +38,7 @@
 
 # 🛠 Tech Stack
 
-## 🦀 Languages
+## Languages
 
 <div align="center">
 
@@ -52,19 +46,15 @@
 
 </div>
 
-## ⚙️ Backend
+## Backend
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=rust,nodejs,express,mongodb,sqlite)](https://skillicons.dev)
 
 </div>
 
-## 🎨 Frontend
+## Frontend
 
 <div align="center">
 
@@ -72,7 +62,7 @@
 
 </div>
 
-## 🧰 Tools
+## Tools
 
 <div align="center">
 
@@ -84,67 +74,131 @@
 
 # 🚀 Featured Projects
 
-### 🦀 Rust Learning Repository
-Complete Rust learning repository based on *The Rust Programming Language* with notes, examples and mini-projects.
+## 🧵 Multithreaded Web Server (Rust)
 
-🔗 https://github.com/tushar434434/rust-learning
+A multithreaded HTTP web server built from scratch in Rust featuring a custom thread pool, worker threads, graceful shutdown and concurrent request handling.
 
-### 🐚 CodeCrafters Shell
-A Unix shell built in Rust implementing parsing, redirection, built-in commands and shell behaviour.
-
-🔗 https://github.com/tushar434434/codecrafters-shell-rust
-
-### 🌍 AQI_BY_TUSHAR
-Full Stack Air Quality Dashboard built with React, Node.js, SQLite and Leaflet Maps.
-
-🔗 https://github.com/tushar434434/-AQI_BY_TUSHAR-
-
-### 🦀 Rust Compress
-CLI compressor built using Rust and flate2.
-
-🔗 https://github.com/tushar434434/Rust-compress
-
-### 🦀 Rust Decompress
-Rust CLI utility for GZIP decompression.
-
-🔗 https://github.com/tushar434434/Rust-decompress
+**Tech:** Rust • ThreadPool • TCP • HTTP • Concurrency
 
 ---
 
-# 📂 Other Repositories
+## 🐚 CodeCrafters Shell
 
-| Repository | Description |
-|------------|-------------|
-| get-request | HTTP GET utility in Rust |
-| write-json | JSON writer using Serde |
-| read-json | JSON parser in Rust |
-| read-csv | CSV reader in Rust |
-| dsa | Data Structures & Algorithms in C++ |
-| healthlink-app | Doctor appointment web application |
-| javascript | JavaScript practice repository |
-| oops- | Java OOP programs |
+A Unix shell built in Rust implementing:
+
+- Built-in commands
+- Redirection
+- Parsing
+- Quoting
+- Path resolution
+- Command execution
+
+**Tech:** Rust • Systems Programming
 
 ---
 
+## 🦀 Rust Learning
 
-# 💡 Areas of Interest
+Complete Rust learning repository based on **The Rust Programming Language** with notes, examples and mini projects.
 
-- 🦀 Systems Programming
+Topics include:
+
+- Ownership
+- Lifetimes
+- Traits
+- Smart Pointers
+- Concurrency
+- Macros
+- Closures
+- Collections
+
+---
+
+## 🌍 AQI Dashboard
+
+A full-stack Air Quality Dashboard featuring:
+
+- Interactive maps
+- City comparison
+- AQI charts
+- Search
+- Favourite cities
+
+**Stack:** React • Node.js • SQLite • Leaflet
+
+---
+
+## 📦 Rust Compress
+
+Command-line GZIP compressor built with Rust and **flate2**.
+
+---
+
+## 📂 Rust Decompress
+
+CLI utility for extracting compressed files using Rust.
+
+---
+
+# 📂 Mini Rust Projects
+
+| Project | Description |
+|---------|-------------|
+| get-request | HTTP GET client |
+| write-json | Write JSON using Serde |
+| read-json | Parse JSON files |
+| read-csv | CSV reader |
+| multithreaded-web-server | HTTP Server with Thread Pool |
+| codecrafters-shell-rust | Unix Shell |
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=tushar434434&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=tushar434434&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar434434&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 💡 Interests
+
+- 🦀 Rust
 - ⚙️ Backend Development
-- 🌐 Full Stack Development
-- 📚 Data Structures & Algorithms
+- 🌐 Systems Programming
+- 🧵 Concurrent Programming
 - 💻 Operating Systems
+- 🌍 Full Stack Development
+- 📚 Data Structures & Algorithms
 - 🔗 Blockchain
-- 🌍 Open Source
+- 🚀 Open Source
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## 📈 Current Focus
 
-### *"Building reliable software, one commit at a time."*
+🦀 Building production-ready Rust projects
 
-🦀 Rust • ⚙️ Backend • 💻 Full Stack • 🌍 Open Source
+⚙️ Learning Async Rust & Distributed Systems
+
+🚀 Preparing for Backend & Rust Internship opportunities
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+*"Building reliable software, one commit at a time."*
 
 </div>
