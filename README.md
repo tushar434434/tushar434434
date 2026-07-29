@@ -151,19 +151,7 @@ CLI utility for extracting compressed files using Rust.
 | multithreaded-web-server | HTTP Server with Thread Pool |
 | codecrafters-shell-rust | Unix Shell |
 
----
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=tushar434434&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=tushar434434&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar434434&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
