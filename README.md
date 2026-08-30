@@ -38,7 +38,7 @@
 
 # 🛠 Tech Stack
 
-## Languages
+## Language
 
 <div align="center">
 
